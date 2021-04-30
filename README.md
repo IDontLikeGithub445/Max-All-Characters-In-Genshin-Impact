@@ -28,5 +28,6 @@ https://genshin-impact.fandom.com/wiki/Weapon_EXP
 https://genshin-impact.fandom.com/wiki/Character_EXP
 https://game8.co/games/Genshin-Impact/archives/296707
 https://game8.co/games/Genshin-Impact/archives/297497
+https://genshin-impact.fandom.com/wiki/Bosses
 
 here are sources I used for my information.
