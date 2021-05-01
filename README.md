@@ -32,3 +32,7 @@ https://genshin-impact.fandom.com/wiki/Commissions
 https://genshin-impact.fandom.com/wiki/Bosses
 
 here are sources I used for my information.
+
+I guess I'll add a very brief changelog:
+April 30th
+   
