@@ -21,8 +21,11 @@ Also, don't question the optimization of my script, Im well aware looping someth
 You're lucky im not making you WAIT 8 minutes for every resin lol.
 haha im not that dumb.
 
+My script is like 800 or so lines long, 800 os you round up, and the Visual Studio IntelliSense isnt automatically popping up, so I might have placed a variable in the wrong place or something, since my puny human brain can't keep track of all of the variables. Anyway, my code is so terrible I can hardly read it myself lol, so its difficult to bug fix quickly.
+
 I'll update it the best I can, whenever I feel like it, so it should stay roughly correct for however long I play genshin.
-I guess I'll add a very brief changelog:
+I guess I'll add a very brief changelog, aswell as running my code once, and writing how long it took, so you can sort of see the Time over the Updates:
+
 April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 
 
 
