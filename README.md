@@ -37,6 +37,7 @@ https://game8.co/games/Genshin-Impact/archives/296707
 https://game8.co/games/Genshin-Impact/archives/297497
 https://genshin-impact.fandom.com/wiki/Commissions
 https://genshin-impact.fandom.com/wiki/Bosses
+https://genshin-impact.fandom.com/wiki/Companionship_EXP
 
 here are sources I used for my information.
    
