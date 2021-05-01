@@ -26,6 +26,9 @@ My script is like 800 or so lines long, 800 os you round up, and the Visual Stud
 I'll update it the best I can, whenever I feel like it, so it should stay roughly correct for however long I play genshin.
 I guess I'll add a very brief changelog, aswell as running my code once, and writing how long it took, so you can sort of see the Time over the Updates:
 
+(Obviously since I included RNG, only Drastic changes will show. since adding a new character could take shorter than the update before, due to RNG)
+March 13th: {No update notes} 5.78 Years
+April 10th: {No update notes} 5.75 Years
 April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 
 
 
