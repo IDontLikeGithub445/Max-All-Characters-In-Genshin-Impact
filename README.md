@@ -35,5 +35,5 @@ here are sources I used for my information.
 
 I guess I'll add a very brief changelog:
 
-April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else} 
+April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 
    
