@@ -17,7 +17,14 @@ Everything is supposed to be as of world level 6, and then the highest level bos
 RNG is added for World bosses, and specifically Ley Line Outcrops, but not domains.
 So its not perfect, but its probably a good estimate.
 
+Also, don't question the optimization of my script, Im well aware looping something 20 times giving 1 resin each time is significantly less efficient than looping once, giving 20 resin. I'm not taking any chances with me an my 54% in Math Class. I'm looping it as if it was in game, 1 resin every 8 minutes.
+You're lucky im not making you WAIT 8 minutes for every resin lol.
+haha im not that dumb.
+
 I'll update it the best I can, whenever I feel like it, so it should stay roughly correct for however long I play genshin.
+I guess I'll add a very brief changelog:
+April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 
+
 
 Sources
 https://genshin-impact.fandom.com/wiki/Ley_Line_Outcrops
@@ -32,8 +39,4 @@ https://genshin-impact.fandom.com/wiki/Commissions
 https://genshin-impact.fandom.com/wiki/Bosses
 
 here are sources I used for my information.
-
-I guess I'll add a very brief changelog:
-
-April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 
    
