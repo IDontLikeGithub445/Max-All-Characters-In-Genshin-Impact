@@ -29,7 +29,7 @@ I guess I'll add a very brief changelog, aswell as running my code once, and wri
 (Obviously since I included RNG, only Drastic changes will show. since adding a new character could take shorter than the update before, due to RNG)
 March 13th: {No update notes} 5.78 Years
 April 10th: {No update notes} 5.75 Years
-April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 
+April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 5.78 Years
 
 
 Sources
