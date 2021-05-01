@@ -1,10 +1,15 @@
 # Max-All-Characters-In-Genshin-Impact
 Greetings I decided to just write a script to find how long it takes to max every charactor in Genshin impact
 
+Pre-emtive warning before you go any further:
+I'm not professional at all, everything is written as if I was talking to a good friend.
+
+Anyway, this script maxes:
 Lvl 90
 Max Talents
 Max Weapon
 Max Artifacts
+(Companionship EXP is automatically maxed in the process of doing everything else lol)
 
 One thing that isnt accounted for is Duplicate Artifacts, or Duplicate Weapons, but techincally I'm maxing every single charactor, not every pair of charactors, so I think im good.
 
