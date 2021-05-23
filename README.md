@@ -32,9 +32,16 @@ I'll update it the best I can, whenever I feel like it, so it should stay roughl
 I guess I'll add a very brief changelog, aswell as running my code once, and writing how long it took, so you can sort of see the Time over the Updates:
 
 (Obviously since I included RNG, only Drastic changes will show. since adding a new character could take shorter than the update before, due to RNG)
+
+[2020]
+
 March 13th: {No update notes} 5.78 Years
+
 April 10th: {No update notes} 5.75 Years
+
 April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 5.78 Years
+
+May 23rd: {Fixed Eula, ever so slightly optimized the loops so now every loop is 80 minutes and 10 resin, rather than 8 mintues and 1 resin, ""optimized"" daily commissions by adding them into the loop, rather than doing all the daily coms at the end. Added quadruple # for ease of navigation (#### <random title>), so just ctrl+f "####", and navigate from there. I also added the mora required to actually ascend characters, since the wiki on character EXP didnt account for that.} 10.9 years? I feel like something went wrong because that seems like too drastic a time increase for what little I changed, I'll look into it
 
 
 Sources
