@@ -41,7 +41,9 @@ April 10th: {No update notes} 5.75 Years
 
 April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 5.78 Years
 
-May 23rd: {Fixed Eula, ever so slightly optimized the loops so now every loop is 80 minutes and 10 resin, rather than 8 mintues and 1 resin, ""optimized"" daily commissions by adding them into the loop, rather than doing all the daily coms at the end. Added quadruple # for ease of navigation (#### <random title>), so just ctrl+f "####", and navigate from there. I also added the mora required to actually ascend characters, since the wiki on character EXP didnt account for that.} 10.9 years? I feel like something went wrong because that seems like too drastic a time increase for what little I changed, I'll look into it
+May 23rd: {Fixed Eula, ever so slightly optimized the loops so now every loop is 80 minutes and 10 resin, rather than 8 mintues and 1 resin, ""optimized"" daily commissions by adding them into the loop, rather than doing all the daily coms at the end. Added quadruple # for ease of navigation (#### <random title>), so just ctrl+f "####", and navigate from there. I also added the mora required to actually ascend characters, since the wiki on character EXP didnt account for that.} 10.9 years? 
+   
+I feel like something went wrong because that seems like too drastic a time increase for what little I changed, I'll look into it. Ok turns out 80 minutes and 10 resin causes the time taken to double completely. I copy and pasted the very original script, and multipled everything by 10, and now it takes 10.9 years aswell, I don't know what's going on but I guess i'll leave it. So congrats, optimizing my script makes it take twice as long to max.
 
 
 Sources
