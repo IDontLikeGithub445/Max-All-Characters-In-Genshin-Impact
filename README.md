@@ -41,9 +41,9 @@ April 10th: {No update notes} 5.75 Years
 
 April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 5.78 Years
 
-May 23rd: {Fixed Eula, ever so slightly optimized the loops so now every loop is 80 minutes and 10 resin, rather than 8 mintues and 1 resin, ""optimized"" daily commissions by adding them into the loop, rather than doing all the daily coms at the end. Added quadruple # for ease of navigation (#### <random title>), so just ctrl+f "####", and navigate from there. I also added the mora required to actually ascend characters, since the wiki on character EXP didnt account for that.} 10.9 years? 
+May 23rd: {Fixed Eula, ""optimized"" daily commissions by adding them into the loop, rather than doing all the daily coms at the end. Using this new Daily method, I can now add Realm currency and what not. Added quadruple # for ease of navigation (#### <random title>), so just ctrl+f "####", and navigate from there. I also added the mora required to actually ascend characters, since the wiki on character EXP didnt account for that.} 10.9 years? 
    
-I feel like something went wrong because that seems like too drastic a time increase for what little I changed, I'll look into it. Ok turns out 80 minutes and 10 resin causes the time taken to double completely. I copy and pasted the very original script, and multipled everything by 10, and now it takes 10.9 years aswell, I don't know what's going on but I guess i'll leave it. So congrats, optimizing my script makes it take twice as long to max.
+Ok for some reason when I change minutes spent to 80, and resin increase to 10, everything goes out of wack. It's supposed to loop 10 times less, but the final time ends up as 10.9 years. I instead reverted 80 to 8, and 10 to 1, but instead changed required resin from 20, 40, 30, 150, and so on, to 2, 4, 3, 15 and so on, and all of a sudden it only takes 1 year. I have no clue what's going on, so for consistancy's sake I'm going to just keep everything at 8 and 1 until I figure out what's going wrong.
 
 
 Sources
