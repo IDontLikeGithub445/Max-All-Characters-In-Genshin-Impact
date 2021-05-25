@@ -41,9 +41,9 @@ April 10th: {No update notes} 5.75 Years
 
 April 30th: {Added Eula, Yanfei, and fixed Rosaria. Added Cyro Hypostasis, Added Azhdaha, Added Adventure EXP, and Companionship EXP, plus an option to max companionship EXP, aswell as everything else. Added Daily coms, and primogems.} 5.78 Years
 
-May 23rd: {Fixed Eula, ""optimized"" daily commissions by adding them into the loop, rather than doing all the daily coms at the end. Using this new Daily method, I can now add Realm currency and what not. Added quadruple # for ease of navigation (#### <random title>), so just ctrl+f "####", and navigate from there. I also added the mora required to actually ascend characters, since the wiki on character EXP didnt account for that.} 10.9 years? 
+May 24th: {Fixed Eula, ""optimized"" daily commissions by adding them into the loop, rather than doing all the daily coms at the end. Using this new Daily method, I can now add Realm currency and what not if I so choose. Added quadruple # for ease of navigation (#### <random title>), so just ctrl+f "####", and navigate from there. I also added the mora required to actually ascend characters, since the wiki on character EXP didnt account for that.} 5.06 Years 
    
-Ok for some reason when I change minutes spent to 80, and resin increase to 10, everything goes out of wack. It's supposed to loop 10 times less, but the final time ends up as 10.9 years. I instead reverted 80 to 8, and 10 to 1, but instead changed required resin from 20, 40, 30, 150, and so on, to 2, 4, 3, 15 and so on, and all of a sudden it only takes 1 year. I have no clue what's going on, so for consistancy's sake I'm going to just keep everything at 8 and 1 until I figure out what's going wrong.
+Ok for some reason when I change minutes spent to 80, and resin increase to 10 (rather than 8 and 1), everything goes out of wack. It's supposed to loop 10 times less, but the final time ends up as 10.9 years. I instead reverted 80 to 8, and 10 to 1, but instead changed required resin from 20, 40, 30, 150, and so on, to 2, 4, 3, 15 and so on, and all of a sudden it only takes 1 year. I have no clue what's going on, so for consistancy's sake I'm going to just keep everything at 8 and 1 until I figure out what's going wrong.
 
 
 Sources
