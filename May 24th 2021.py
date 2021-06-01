@@ -313,7 +313,7 @@ for _ in range(len(Characters_List)):#Do for every character in the Dictionary
             Resin_Count += 1
             Total_Resin += 1
             
-            Check_Daily_Minutes += 80 #(8*10)
+            Check_Daily_Minutes += 8
             if Check_Daily_Minutes >= 1440:
                 Do_Daily()
 
@@ -359,7 +359,7 @@ for _ in range(len(Characters_List)):#Do for every character in the Dictionary
             Resin_Count += 1
             Total_Resin += 1
 
-            Check_Daily_Minutes += 80 #(8*10)
+            Check_Daily_Minutes += 8
             if Check_Daily_Minutes >= 1440:
                 Do_Daily()
 
@@ -395,7 +395,7 @@ for _ in range(len(Characters_List)):#Do for every character in the Dictionary
             Resin_Count += 1
             Total_Resin += 1
 
-            Check_Daily_Minutes += 80 #(8*10)
+            Check_Daily_Minutes += 8
             if Check_Daily_Minutes >= 1440:
                 Do_Daily()
 
@@ -445,7 +445,7 @@ for _ in range(len(Characters_List)):#Do for every character in the Dictionary
         Resin_Count += 1
         Total_Resin += 1
 
-        Check_Daily_Minutes += 80 #(8*10)
+        Check_Daily_Minutes += 8
         if Check_Daily_Minutes >= 1440:
             Do_Daily()
 
@@ -475,7 +475,7 @@ for _ in range(len(Characters_List)):#Do for every character in the Dictionary
             Resin_Count += 1
             Total_Resin += 1
 
-            Check_Daily_Minutes += 80 #(8*10)
+            Check_Daily_Minutes += 8
             if Check_Daily_Minutes >= 1440:
                 Do_Daily()
 
@@ -534,7 +534,7 @@ for _ in range(len(Characters_List)):#Do for every character in the Dictionary
                 Resin_Count += 1
                 Total_Resin += 1
 
-                Check_Daily_Minutes += 80 #(8*10)
+                Check_Daily_Minutes += 8
                 if Check_Daily_Minutes >= 1440:
                     Do_Daily()
 
@@ -553,7 +553,7 @@ for _ in range(len(Characters_List)):#Do for every character in the Dictionary
             Resin_Count += 1
             Total_Resin += 1
 
-            Check_Daily_Minutes += 80 #(8*10)
+            Check_Daily_Minutes += 8
             if Check_Daily_Minutes >= 1440:
                 Do_Daily()
 
@@ -628,7 +628,7 @@ for _ in range(len(Characters_List)):#Do for every character in the Dictionary
                 Resin_Count += 1
                 Total_Resin += 1
 
-                Check_Daily_Minutes += 80 #(8*10)
+                Check_Daily_Minutes += 8
                 if Check_Daily_Minutes >= 1440:
                     Do_Daily()
 
@@ -672,7 +672,7 @@ for x in range(Character_Count_x5):#5, 5-Star artifacts for each character, Both
         Resin_Count += 1
         Total_Resin += 1
 
-        Check_Daily_Minutes += 80 #(8*10)
+        Check_Daily_Minutes += 8
         if Check_Daily_Minutes >= 1440:
             Do_Daily()
 
@@ -708,7 +708,7 @@ while Mora_Cost > 0:
     Resin_Count += 1
     Total_Resin += 1
 
-    Check_Daily_Minutes += 80 #(8*10)
+    Check_Daily_Minutes += 8
     if Check_Daily_Minutes >= 1440:
         Do_Daily()
 
