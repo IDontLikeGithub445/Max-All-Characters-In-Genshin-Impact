@@ -2,6 +2,7 @@
 
 Don't actually read my Im just spewing all of my thoughts here
 Also there's an update log I just added, it contains all of the actually important stuff, go read that instead.
+update, I've only just learned now that you can add multiple title cars to one README, so I moved the updates back here
 
 -
 -
@@ -44,7 +45,7 @@ My script is like 800 or so lines long, 800 os you round up, and the Visual Stud
 
 I'll update it the best I can, whenever I feel like it, so it should stay roughly correct for however long I play genshin.
 
-Sources
+##Sources
 https://genshin-impact.fandom.com/wiki/Ley_Line_Outcrops
 https://genshin-impact.fandom.com/wiki/Character_Ascension_Materials
 https://genshin-impact.fandom.com/wiki/Talent_Level-Up_Materials
