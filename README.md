@@ -1,7 +1,9 @@
 # Max-All-Characters-In-Genshin-Impact
 
 Don't actually read my Im just spewing all of my thoughts here
+
 Also there's an update log I just added, it contains all of the actually important stuff, go read that instead.
+
 update, I've only just learned now that you can add multiple title cars to one README, so I moved the updates back here
 
 -
