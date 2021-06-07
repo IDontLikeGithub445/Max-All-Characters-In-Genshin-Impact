@@ -6,23 +6,23 @@ Also there's an update log I just added, it contains all of the actually importa
 
 update, I've only just learned now that you can add multiple title cars to one README, so I moved the updates back here
 
--
--
--
--
--
-
-
+## Boring stuff
 Greetings I decided to just write a script to find how long it takes to max every charactor in Genshin impact
 
 Pre-emtive warning before you go any further:
-I'm not professional at all, everything is written as if I was talking to a good friend.
+
+I'm not professional at all, everything is written as if I was talking to a good friend. because formality is my arch nemisis.
 
 Anyway, this script maxes:
+
 Lvl 90
+
 Max Talents
+
 Max Weapon
+
 Max Artifacts
+
 (Companionship EXP is automatically maxed in the process of doing everything else lol)
 
 One thing that isnt accounted for is Duplicate Artifacts, or Duplicate Weapons, but techincally I'm maxing every single charactor, not every pair of charactors, so I think im good.
