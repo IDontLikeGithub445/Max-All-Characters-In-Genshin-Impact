@@ -85,16 +85,26 @@ I've figured it out, when I give like 20 or so wanderes adivce, or any similar m
 
 ## Sources
 https://genshin-impact.fandom.com/wiki/Ley_Line_Outcrops
+
 https://genshin-impact.fandom.com/wiki/Character_Ascension_Materials
+
 https://genshin-impact.fandom.com/wiki/Talent_Level-Up_Materials
+
 https://www.reddit.com/r/Genshin_Impact/comments/joo9qg/guide_artifact_exp_calculations_and_genshin/
+
 https://genshin-impact.fandom.com/wiki/Weapon_EXP
+
 https://genshin-impact.fandom.com/wiki/Character_EXP
+
 https://game8.co/games/Genshin-Impact/archives/296707
+
 https://game8.co/games/Genshin-Impact/archives/297497
+
 https://genshin-impact.fandom.com/wiki/Commissions
+
 https://genshin-impact.fandom.com/wiki/Bosses
+
 https://genshin-impact.fandom.com/wiki/Companionship_EXP
 
-here are sources I used for my information.
+in no particular order
    
