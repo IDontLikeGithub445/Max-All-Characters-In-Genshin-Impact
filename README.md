@@ -70,7 +70,8 @@ Ok for some reason when I change minutes spent to 80, and resin increase to 10 (
 I've figured it out, when I give like 20 or so wanderes adivce, or any similar material, I only consume 1 per loop, but I get 20 every 2 loops. meaning I have an imense backlog of materials, but the loop doesnt know that. all the loop knows is do ley line outcrop. Therefore the time spent is increased drastically, and the backlog of materials is increasded from almost none, to probably thousands. Now that I've figured this out, I'll go ahead and """"""optimize"""""" the loops using some math or things. I'm finially caving in to the 0 people who were complaining, so I'll optimize the loopage next update.
 
 #### [x]:
-Loops now loop 10 times less, thanks to optimization with math.
+Loops now loop 10 times less, thanks to optimization with math, Added Kazuha, I feel like waiting for atleast Yoimiya aswell and then I'll go ahead and release it
+not that anyone cares, there are far better methods out there, just google it im sure you'll find it, but still
 
 
 
