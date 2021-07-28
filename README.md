@@ -29,7 +29,8 @@ One thing that isnt accounted for is Duplicate Artifacts, or Duplicate Weapons, 
 
 I'm going to add the dictionary ordering here, just so I can de-clutter the python script itself. I don't feel like updating old scripts, so you can go see what it used to look like.
 
-{"Name": (Element, "Weekly Boss Talent Ascention Material (based on Fandom)", "Domain Talent Ascention Material (Also fandom)", "Weapon Name (Based on Game8 reccomended Weapon, or if a 4-star is reccomended, a random 5-star bow is chosen instead, since im too lazy to account for 4-stars. (+ indicates first reccomendation, - indicates other reccomendation, no sign indicates random selection)", "Weapon Ascention Material (Based on Game8")}
+{"Name": ("Element", "Weekly Boss Talent Ascention Material (based on Fandom)", "Domain Talent Ascention Material (Also fandom)", "Weapon Name (Based on Game8 reccomended Weapon, or if a 4-star is reccomended, a random 5-star bow is chosen instead, since im too lazy to account for 4-stars. (+ indicates first reccomendation, - indicates other reccomendation, no sign indicates random selection)", "Weapon Ascention Material (Based on Game8"))}
+Ayo note from the future, Im pretty sure 4 and 5 star weapons require the same exp, but Imma just stick with 5 star weapons because Im too lazy to go through all of the game8 pages again.
 
 
 I'll leave the bare-bones verison of the explanation in the script though.
@@ -44,6 +45,17 @@ You're lucky im not making you WAIT 8 minutes for every resin lol.
 haha im not that dumb.
 
 My script is like 800 or so lines long, 800 os you round up, and the Visual Studio IntelliSense isnt automatically popping up, so I might have placed a variable in the wrong place or something, since my puny human brain can't keep track of all of the variables. Anyway, my code is so terrible I can hardly read it myself lol, so its difficult to bug fix quickly.
+
+##Slightly less boring stuff
+The entire script is soft-coded, so in theory if you wanted to add Steve, a Dendro-based <weapon-type doesnt matter> character, who requires Dvalin's Claw, Proficies of Freedom, <weapon name doesnt matter>, and some Mask of the Kijin, oh and Primo Geovishap scales, You'd add
+   
+   "Steve":("Dendro", "Claw", "Freedom", "Bonk-Stick", "Kijin"),
+
+to the Characters_List variable
+So yeah have fun
+The formatting is already there but I'll paste it again
+
+   "Name": ("Element", "Weekly Boss Talent Ascention Material", "Domain Talent Ascention Material", "Weapon Name", "Weapon Ascention Material")
 
 ## Updates
 I'll update it the best I can, whenever I feel like it, so it should stay roughly correct for however long I play genshin.
@@ -72,7 +84,8 @@ I've figured it out, when I give like 20 or so wanderes adivce, or any similar m
 #### [x]:
 Loops now loop 10 times less, thanks to optimization with math, Added Kazuha, I feel like waiting for atleast Yoimiya aswell and then I'll go ahead and release it
 not that anyone cares, there are far better methods out there, just google it im sure you'll find it, but still
-
+Ayaka works. Anyway I also added the names of talent and weapon ascention materials further up so they're easier to find when you're adding characters. Speaking of,
+im not sure if I mentioned this anywhere, but you can add your own characters by just adding them to the "Characters_List" variable. I'll go add this closer to the top.
 
 
 
