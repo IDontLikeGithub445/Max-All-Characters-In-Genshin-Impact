@@ -84,8 +84,9 @@ I've figured it out, when I give like 20 or so wanderes adivce, or any similar m
 #### [x]:
 Loops now loop 10 times less, thanks to optimization with math, Added Kazuha, I feel like waiting for atleast Yoimiya aswell and then I'll go ahead and release it
 not that anyone cares, there are far better methods out there, just google it im sure you'll find it, but still
-Ayaka works. Anyway I also added the names of talent and weapon ascention materials further up so they're easier to find when you're adding characters. Speaking of,
-im not sure if I mentioned this anywhere, but you can add your own characters by just adding them to the "Characters_List" variable. I'll go add this closer to the top.
+Ayaka and Electro Traveler works. Anyway I also added the names of talent and weapon ascention materials further up so they're easier to find when you're adding characters. 
+Speaking of, im not sure if I mentioned this anywhere, but you can add your own characters by just adding them to the "Characters_List" variable. I'll go add this closer to the top.
+Added support for Pyro Cube aswell, and all of Inazuma's other bits and bobs
 
 
 
