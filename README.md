@@ -91,7 +91,7 @@ I've also added a couple more try and except statements to the print statements 
 Anyway, my Python Intellisense is crashing trying to read an 18 line file, so who would have guessed it'd crash reading a 1000 line file. Without my Intellisense, I can't keep track of my own variables, so hypothetically if my code just straight up no longer works, that'd be why. While Intellisense is dead, the interpreter itself isn't, so I can indeed test my code. Everything seems to check out but there's no 100% guarantee 
 
 #### [x]:
-I got my intellisense working again, so thats good. I added Sayu and Yoimiya, aswell as Artifacts to elemental-bosses as i've been calling them, so thats like... Pyro flower, geo cube, but not geovishap or mecha cube. After fighting like 10 to 11 pyro flowers in honor of Ambers birthday, It seems the average drop rate is 1 legendary, 2 epic, and 3 rare. uh... 1 5star, 2 4star, and 3 3star. So i'll just assume that holds true for all the elemenal bosses untill proven otherwise.
+I got my intellisense working again, so thats good. I added Sayu and Yoimiya, aswell as Artifacts to elemental-bosses as i've been calling them, so thats like... Pyro flower, geo cube, but not geovishap or mecha cube. After fighting like 10 to 11 pyro flowers in honor of Ambers birthday, It seems the average drop rate is 1 legendary, 2 epic, and 3 rare. uh... 1 5star, 2 4star, and 3 3star. So i'll just assume that holds true for all the elemenal bosses untill proven otherwise. Actually i'll make it 1 5star, 2 4star, and 2 3star just incase
 
 
 ## Sources
